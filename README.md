@@ -68,13 +68,10 @@ Step-by-step instructions to set up the project locally:
 ```bash
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/Kurodataio/Linear-Regression-Model-Project-with-EPL-Soccer-Player-Dataset.git
 
 # Navigate to the project folder
-cd YOUR_REPO
-
-# Install dependencies
-pip install -r requirements.txt
+cd https://github.com/Kurodataio/Linear-Regression-Model-Project-with-EPL-Soccer-Player-Dataset
 
 # Launch Jupyter Notebook
 jupyter notebook
