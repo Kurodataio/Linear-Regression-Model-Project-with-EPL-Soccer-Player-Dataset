@@ -108,8 +108,8 @@ Summarize your findings, insights, and visualizations:
 
 ## Credits
 
-- **ProjectPro:** Linear Regression Model Project in Python for Beginners Part #1 
-- **Dataset Source:** [ProjectPro](https://s3.amazonaws.com/)   
+- **ProjectPro:** Linear Regression Model Project in Python... #1 
+- **Dataset Source:** [ProjectPro](https://www.projectpro.io/)   
 
 ---
 
