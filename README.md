@@ -2,7 +2,7 @@
 Linear Regression Model Project in Python with EPL Soccer Player Dataset #1
 
 
-[Notebook Link](https://github.com/Sodiq-Shodimu/nexygen-project/blob/main/preprocessed.ipynb)  
+[Notebook Link](https://github.com/Kurodataio/lr-soccer-scores.ipynb)  
 
 ---
 
@@ -16,7 +16,6 @@ Linear Regression Model Project in Python with EPL Soccer Player Dataset #1
 - [Analysis & Visualizations](#analysis--visualizations)  
 - [Conclusion](#conclusion)  
 - [Credits](#credits)  
-- [License](#license)  
 
 ---
 
@@ -26,10 +25,8 @@ Linear Regression Model Project in Python with EPL Soccer Player Dataset #1
 
 ## Dataset
 
-Provide details about the dataset used:
-
-- Source of the dataset (link if available)  
-- Size of the dataset (# of rows and columns)  
+- The dataet is the EPL player dataset (link if available)  
+- The size of the dataset is 202 rows and 13 columns
 - Key features/columns used  
 - Any preprocessing or cleaning steps  
 
@@ -49,7 +46,7 @@ Provide details about the dataset used:
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <!-- <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"> -->
 </p>
 
 <P>
@@ -83,13 +80,9 @@ jupyter notebook
 
 Instructions for using the project:
 
-1. Open the main notebook (`analysis.ipynb`)  
+1. Open the main notebook (`lr-soccer-scores.ipynb`)  
 2. Run each cell sequentially to reproduce the analysis  
 3. Visualizations and results will be generated automatically  
-
-Include screenshots of your visualizations if available:  
-
-![Visualization Example](assets/images/screenshot.png)  
 
 ---
 
@@ -99,6 +92,7 @@ Summarize your findings, insights, and visualizations:
 
 - Describe the key trends and patterns you observed  
 - Show charts, graphs, and tables  ![Graph](img1.png)
+![Visualization Example](assets/images/screenshot.png)  
 - Include important observations or correlations found in the data  
 
 ---
@@ -114,8 +108,8 @@ Summarize your findings, insights, and visualizations:
 
 ## Credits
 
-- **ProjectPro:** Build an AWS ETL Data Pipeline in Python on YouTube Data 
-- **Dataset Source:** [Kaggle Link](https://www.kaggle.com/)   
+- **ProjectPro:** Linear Regression Model Project in Python for Beginners Part #1 
+- **Dataset Source:** [ProjectPro](https://s3.amazonaws.com/)   
 
 ---
 
