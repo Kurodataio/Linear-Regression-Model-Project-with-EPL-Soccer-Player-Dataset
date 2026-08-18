@@ -94,16 +94,23 @@ Summarize your findings, insights, and visualizations:
 
 - Describe the key trends and patterns you observed  
 - Show charts, graphs, and tables 
-![Visualization Example](assets/images/screenshot.png)  
 ![Scatter plot between AgentCharges and Score](images/Scatter_plot_between_AgentCharges_and_Score.png)  
 ![Scatter plot between BMI and Score](images/Scatter_plot_between_BMI_and_Score.png)  
-![Visualization Example](images/)  
-
+![Scatter plot between Cost and Score](images/Scatter_plot_between_Cost_and_Score.png)  
+![Scatter plot between DistanceCovered(InKms) and Score](images/Scatter_plot_between_DistanceCovered(InKms)_and_Score.png)  
+![Scatter plot between Goals and Score](images/Scatter_plot_between_Goals_and_Score.png)  
+![Scatter plot between Height and Score](images/Scatter_plot_between_Height_and_Score.png)  
+![Scatter plot between MinutestoGoalRatio and Score](images/Scatter_plot_between_MinutestoGoalRatio_and_Score.png)  
+![Scatter plot between PreviousClubCost and Score](images/Scatter_plot_between_PreviousClubCost_and_Score.png)  
+![Scatter plot between ShotsPerGame and Score](images/Scatter_plot_between_ShotsPerGame_and_Score.png)  
+![Scatter plot between Weight and Score](images/Scatter_plot_between_Weight_and_Score.png)  
+<!-- ![Visualization Example](images/)  
+![Visualization Example](images/)   -->
 
 ---
 
 ## Conclusion 
-
+![Scatter plot between Cost and Score](images/Scatter_plot_between_Cost_and_Score.png)  
 - Summarize the outcome of your analysis  
 - What are the main insights or takeaways?  
 - How could this analysis inform decision-making?  
