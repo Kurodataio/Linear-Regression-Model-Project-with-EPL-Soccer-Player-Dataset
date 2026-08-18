@@ -93,9 +93,10 @@ Instructions for using the project:
 Summarize your findings, insights, and visualizations:
 
 - Describe the key trends and patterns you observed  
-- Show charts, graphs, and tables  ![Graph](img1.png)
+- Show charts, graphs, and tables 
 ![Visualization Example](assets/images/screenshot.png)  
-- Include important observations or correlations found in the data  
+![Scatter plot between AgentCharges and Score](images/Scatter plot between AgentCharges and Score.png)  
+
 
 ---
 
