@@ -30,6 +30,8 @@ Linear Regression Model Project in Python with EPL Soccer Player Dataset #1
 - Key features/columns used  
 - Any preprocessing or cleaning steps  
 
+Dataset: EPL_Soccer_MLR_LR.csv
+
 ---
 
 <h2>Technologies Used</h2>
