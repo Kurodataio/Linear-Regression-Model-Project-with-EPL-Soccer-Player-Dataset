@@ -110,6 +110,7 @@ We have plotted numerical value pairs to show any positive, negative or non corr
 ![Scatter plot between Cost and Score](images/Scatter_plot_between_Cost_and_Score.png)  
 - There is a linear upward trend between cost (independent variable, x-axis) and score (dependent variable, y-axis).
 - The regression model fitted to the training data, predicts the test data well. 
+![Regression line through Training Data](images/Regression_line_through_the_Training_Data.png)  
 - Based on the data, the cost of players is a strong predictor of average score per match. In other words the average score per match is strongly correlated withs costs of players.
 
 
