@@ -95,7 +95,9 @@ Summarize your findings, insights, and visualizations:
 - Describe the key trends and patterns you observed  
 - Show charts, graphs, and tables 
 ![Visualization Example](assets/images/screenshot.png)  
-![Scatter plot between AgentCharges and Score](Scatter_plot_between_AgentCharges_and_Score.png)  
+![Scatter plot between AgentCharges and Score](images/Scatter_plot_between_AgentCharges_and_Score.png)  
+![Scatter plot between BMI and Score](images/Scatter_plot_between_BMI_and_Score.png)  
+![Visualization Example](images/)  
 
 
 ---
