@@ -27,8 +27,6 @@ Linear Regression Model Project in Python with EPL Soccer Player Dataset #1
 
 - The dataet is the EPL player dataset (link if available)  
 - The size of the dataset is 202 rows and 13 columns
-- Key features/columns used  
-- Any preprocessing or cleaning steps  
 
 Dataset: EPL_Soccer_MLR_LR.csv
 
@@ -101,16 +99,18 @@ We have plotted numerical value pairs to show any positive, negative or non corr
 ![Scatter plot between PreviousClubCost and Score](images/Scatter_plot_between_PreviousClubCost_and_Score.png)  
 ![Scatter plot between ShotsPerGame and Score](images/Scatter_plot_between_ShotsPerGame_and_Score.png)  
 ![Scatter plot between Weight and Score](images/Scatter_plot_between_Weight_and_Score.png)  
-<!-- ![Visualization Example](images/)  
-![Visualization Example](images/)   -->
+<!-- 
+![Visualization Example](images/)   
+-->
 
 ---
 
 ## Conclusion 
 - The Cost and Score plot shows a strong positive correlation.
 ![Scatter plot between Cost and Score](images/Scatter_plot_between_Cost_and_Score.png)  
-- There os a linear upward trend between cost (independent variable, x-axis) and score (dependent variable, y-axis).
+- There is a linear upward trend between cost (independent variable, x-axis) and score (dependent variable, y-axis).
 - The regression model fitted to the training data, predicts the test data well. 
+- Based on the data, the cost of players is a strong predictor of average score per match. In other words the average score per match is strongly correlated withs costs of players.
 
 
 ---
