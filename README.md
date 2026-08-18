@@ -90,10 +90,7 @@ Instructions for using the project:
 
 ## Analysis & Visualizations 
 
-Summarize your findings, insights, and visualizations:
-
-- Describe the key trends and patterns you observed  
-- Show charts, graphs, and tables 
+We have plotted numerical value pairs to show any positive, negative or non correlations.
 ![Scatter plot between AgentCharges and Score](images/Scatter_plot_between_AgentCharges_and_Score.png)  
 ![Scatter plot between BMI and Score](images/Scatter_plot_between_BMI_and_Score.png)  
 ![Scatter plot between Cost and Score](images/Scatter_plot_between_Cost_and_Score.png)  
@@ -110,11 +107,11 @@ Summarize your findings, insights, and visualizations:
 ---
 
 ## Conclusion 
+- The Cost and Score plot shows a strong positive correlation.
 ![Scatter plot between Cost and Score](images/Scatter_plot_between_Cost_and_Score.png)  
-- Summarize the outcome of your analysis  
-- What are the main insights or takeaways?  
-- How could this analysis inform decision-making?  
-- Recommendations or next steps for further analysis  
+- There os a linear upward trend between cost (independent variable, x-axis) and score (dependent variable, y-axis).
+- The regression model fitted to the training data, predicts the test data well. 
+
 
 ---
 
