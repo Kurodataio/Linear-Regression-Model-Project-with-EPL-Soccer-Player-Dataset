@@ -100,6 +100,9 @@ Instructions for using the project:
 ![Scatter plot between PreviousClubCost and Score](images/Scatter_plot_between_PreviousClubCost_and_Score.png)  
 ![Scatter plot between ShotsPerGame and Score](images/Scatter_plot_between_ShotsPerGame_and_Score.png)  
 ![Scatter plot between Weight and Score](images/Scatter_plot_between_Weight_and_Score.png)  
+- Feature (column) correlation plot
+![Feature_Correlation_Matrix](images/Feature_Correlation_Matrix.png)  
+
 <!-- 
 ![Visualization Example](images/)   
 -->
