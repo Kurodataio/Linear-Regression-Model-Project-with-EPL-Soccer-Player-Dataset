@@ -87,8 +87,9 @@ Instructions for using the project:
 ---
 
 ## Analysis & Visualizations 
-
-We have plotted numerical value pairs to show any positive, negative or non correlations.
+- Distibution of Numeric values
+![Distibution of Numeric values](images/distribution_of_numeric_values.png)  
+- We have plotted numerical value pairs to show any positive, negative or non correlations.
 ![Scatter plot between AgentCharges and Score](images/Scatter_plot_between_AgentCharges_and_Score.png)  
 ![Scatter plot between BMI and Score](images/Scatter_plot_between_BMI_and_Score.png)  
 ![Scatter plot between Cost and Score](images/Scatter_plot_between_Cost_and_Score.png)  
