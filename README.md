@@ -2,7 +2,7 @@
 Linear Regression Model Project in Python with EPL Soccer Player Dataset #1
 
 
-[Notebook Link](https://github.com/Kurodataio/lr-soccer-scores.ipynb)  
+[Notebook Link](https://github.com/Kurodataio/Linear-Regression-Model-Project-with-EPL-Soccer-Player-Dataset/blob/main/lr-soccer-scores.ipynb)  
 
 ---
 
@@ -21,7 +21,6 @@ Linear Regression Model Project in Python with EPL Soccer Player Dataset #1
 
 ## Overview
 - This project uses linear regression, a foundational Machine Learning technique predict the scores of EPL soccer players.
-- 
 
 ## Dataset
 
