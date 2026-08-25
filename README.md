@@ -117,8 +117,7 @@ Instructions for using the project:
 ![Regression line through Training Data](images/Regression_line_through_the_Training_Data.png) 
 ![Regression line through Test Data](images/Regression_line_through_the_Testing_Data.png)  
 - Based on the data, the cost of players is a strong predictor of average score per match. In other words the average score per match is strongly correlated withs costs of players.
-
-
+- There is a strong correlation between ShotsPerGame and MinutesToGoalRatio of 0.95.
 ---
 
 ## Credits
