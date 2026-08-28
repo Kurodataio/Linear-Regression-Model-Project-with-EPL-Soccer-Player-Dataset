@@ -102,6 +102,10 @@ Instructions for using the project:
 ![Scatter plot between Weight and Score](images/Scatter_plot_between_Weight_and_Score.png)  
 - Feature (column) correlation plot
 ![Feature_Correlation_Matrix](images/Feature_Correlation_Matrix.png)  
+- Score & Cost ($0.96$), has a positive linear relationship
+- ShotsPerGame & MinutesToGoalRatio (0.95), another strong positive correlation, showing a close relationship between shooting volume and scoring frequency metrics.
+- Weight & Height (0.78), Weight & PreviousClubCost (0.93), Height & PreviousClubCost (0.80), have high positive correlations.
+- DistanceCovered(InKms) with MinutesToGoalRatio (0.92) & ShotsPerGame (0.89), show distance covered strongly correlates with shots per game and minutes-to-goal ratio.
 
 <!-- 
 ![Visualization Example](images/)   
