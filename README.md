@@ -106,7 +106,7 @@ Instructions for using the project:
 - ShotsPerGame & MinutesToGoalRatio (0.95), another strong positive correlation, showing a close relationship between shooting volume and scoring frequency metrics.
 - Weight & Height (0.78), Weight & PreviousClubCost (0.93), Height & PreviousClubCost (0.80), have high positive correlations.
 - DistanceCovered(InKms) with MinutesToGoalRatio (0.92) & ShotsPerGame (0.89), show distance covered strongly correlates with shots per game and minutes-to-goal ratio.
-
+- There are a few moderate negative correlations, such as  Score & MinutesToGoalRatio (-0.53), Score & ShotsPerGame (-0.53), Score and DistanceCovered(InKms) (-0.49). Score and Cost tend to have negative correlations with these features
 <!-- 
 ![Visualization Example](images/)   
 -->
