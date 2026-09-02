@@ -88,7 +88,10 @@ Instructions for using the project:
 
 ## Analysis & Visualizations 
 - Distibution of Numeric values
-![Distibution of Numeric values](images/distribution_of_numeric_values.png)  
+- Height & Weight have balanced gaussian-like distribution.  Height centers around 175–185 cm and weight peaks around 70–75 kg.
+![Distibution of Numeric values](images/distribution_of_numeric_values.png) 
+
+---
 - We have plotted numerical value pairs to show any positive, negative or non correlations.
 ![Scatter plot between AgentCharges and Score](images/Scatter_plot_between_AgentCharges_and_Score.png)  
 ![Scatter plot between BMI and Score](images/Scatter_plot_between_BMI_and_Score.png)  
@@ -100,6 +103,8 @@ Instructions for using the project:
 ![Scatter plot between PreviousClubCost and Score](images/Scatter_plot_between_PreviousClubCost_and_Score.png)  
 ![Scatter plot between ShotsPerGame and Score](images/Scatter_plot_between_ShotsPerGame_and_Score.png)  
 ![Scatter plot between Weight and Score](images/Scatter_plot_between_Weight_and_Score.png)  
+
+---
 - Feature (column) correlation plot
 ![Feature_Correlation_Matrix](images/Feature_Correlation_Matrix.png)  
 - Score & Cost ($0.96$), has a positive linear relationship
