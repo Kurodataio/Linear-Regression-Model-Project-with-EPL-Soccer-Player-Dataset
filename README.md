@@ -93,6 +93,7 @@ Instructions for using the project:
 - Distance Covered (In Kms) shows a bimodal distribution.
 - Goals show a right-skewed distribution, peaking around 6-7 goals with a few outliers over 12.
 - Shots Per Game shows a normal distribution with a peak around 14.5 to 15 shots per game.
+- Cost and Player Score are highly right-skewed. The vast majority of players fall into lower-to-mid valuation of 25k-70k range. There are a few high valuation costs over 125k.
 ![Distibution of Numeric values](images/distribution_of_numeric_values.png) 
 
 ---
