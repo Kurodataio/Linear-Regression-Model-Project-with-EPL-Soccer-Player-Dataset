@@ -88,9 +88,10 @@ Instructions for using the project:
 
 ## Analysis & Visualizations 
 - Distibution of Numeric values
-- Height and weight have gaussian-like distributions.  Height centers around 175–185 cm and weight peaks around 70–75 kg.
+- Height and weight have gaussian-like distributions.  Height centers around 175-185 cm and weight peaks around 70-75 kg.
 - BMI (Body Mass Index) is around 22.5 to 23, this is typical of athletic body composition. There are interesting BMI outliers over 30.
-- Distance Covered (In Kms) shows a bimodal distribution with a slight left skew
+- Distance Covered (In Kms) shows a bimodal distribution.
+- Goals show a right-skewed distribution, peaking around 6-7 goals with a few outliers over 12.
 ![Distibution of Numeric values](images/distribution_of_numeric_values.png) 
 
 ---
