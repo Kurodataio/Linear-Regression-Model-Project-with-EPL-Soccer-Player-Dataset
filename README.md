@@ -92,6 +92,7 @@ Instructions for using the project:
 - BMI (Body Mass Index) is around 22.5 to 23, this is typical of athletic body composition. There are interesting BMI outliers over 30.
 - Distance Covered (In Kms) shows a bimodal distribution.
 - Goals show a right-skewed distribution, peaking around 6-7 goals with a few outliers over 12.
+- Shots Per Game shows a normal distribution with a peak around 14.5 to 15 shots per game.
 ![Distibution of Numeric values](images/distribution_of_numeric_values.png) 
 
 ---
