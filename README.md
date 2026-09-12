@@ -128,7 +128,7 @@ Instructions for using the project:
 ---
 
 ## Conclusion 
-- The Cost and Score plot shows a strong positive correlation.
+- The Cost and Score plot and heat map correlation (0.96), shows a strong linear positive relationship.
 ![Scatter plot between Cost and Score](images/Scatter_plot_between_Cost_and_Score.png)  
 - There is a linear upward trend between cost (independent variable, x-axis) and score (dependent variable, y-axis).
 - The regression model fitted to the training data, predicts the test data well. 
