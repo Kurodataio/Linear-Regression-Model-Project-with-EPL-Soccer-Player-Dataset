@@ -68,7 +68,7 @@ Step-by-step instructions to set up the project locally:
 git clone https://github.com/Kurodataio/Linear-Regression-Model-Project-with-EPL-Soccer-Player-Dataset.git
 
 # Navigate to the project folder
-cd https://github.com/Kurodataio/Linear-Regression-Model-Project-with-EPL-Soccer-Player-Dataset
+cd Linear-Regression-Model-Project-with-EPL-Soccer-Player-Dataset
 
 # Launch Jupyter Notebook
 jupyter notebook
